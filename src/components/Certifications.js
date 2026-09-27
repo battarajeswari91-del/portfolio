@@ -1,4 +1,4 @@
-certifications = [
+const certifications = [
     {
         id: 1,
         title: "Data Analyst",
